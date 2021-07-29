@@ -7,3 +7,4 @@ This is a temporary script file.
 
 x = 1
 y = 2
+z = 3
